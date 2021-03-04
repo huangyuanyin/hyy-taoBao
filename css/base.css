@@ -1,0 +1,20 @@
+* {
+ margin: 0;
+ padding: 0;
+ }
+.typearea {
+ width: 1190px;
+ margin: 0 auto;
+ }
+body {
+ background-color: #F5F5F5;
+ }
+.typearea>div {
+ background-color: #fff;
+ }
+li {
+ list-style: none;
+ }
+a {
+ text-decoration: none;
+ }
