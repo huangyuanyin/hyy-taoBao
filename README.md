@@ -1,6 +1,6 @@
 
 # 淘宝首页
-### 在公司实习的时候用原生html+css+js开发的淘宝首页，仅供学习和参考
+### 自己使用原生html+css+js开发的淘宝首页，仅供学习和参考
 
 
 ![image](https://user-images.githubusercontent.com/42410679/109935085-2b06ac00-7d08-11eb-8595-2fa7ffe68e71.png)
